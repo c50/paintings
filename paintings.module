@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the paintings feature.
+ */
+
+include_once 'paintings.features.inc';
