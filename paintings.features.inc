@@ -108,7 +108,7 @@ function paintings_node_info() {
       'description' => t('Tableau'),
       'has_title' => '1',
       'title_label' => t('Title'),
-      'help' => t('Les images de tableaux doivent toutes être téléchargées en jpeg 72ppp 400x400pixels pour un bon fonctionnement de la mosaïque, quel que soit le format du tableau (20x20 ou 30x30).'),
+      'help' => t('Les images de tableaux doivent toutes être téléchargées en jpeg 72ppp 400x400pixels pour un bon fonctionnement de la mosaïque, quel que soit le format du tableau.'),
     ),
   );
   return $items;
